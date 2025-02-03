@@ -1,7 +1,7 @@
 {
-  "name": "Rynn Api's",
-  "version": "Rynn UI",
-  "description": "Simple and Easy-to-Use API Documentation",
+  "name": "iCeo Api's",
+  "version": "v1.0.0",
+  "description": "WhatsApp API (Beta) is a test service for integrating WhatsApp bots. Features may change, and the API Key is temporary.",
   "header": {
     "status": "Online!",
     "imageSrc": [
@@ -14,16 +14,16 @@
     }
   },
   "apiSettings": {
-    "creator": "Rynn"
+    "creator": "iCeo"
   },
   "links": [
     {
-      "name": "Source Code",
-      "url": "https://github.com/rynxzyy/Rynn-UI"
+      "name": "Web",
+      "url": "web.com"
     },
     {
       "name": "Contact Me",
-      "url": "https://wa.me/6285173370004"
+      "url": "https://wa.me/6281617967693"
     }
   ],
   "categories": [
